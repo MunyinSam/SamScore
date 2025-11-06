@@ -1,0 +1,15 @@
+# The core AI model from Spotify
+basic-pitch>=0.4.0
+
+# For converting the AI's output (MIDI) into a PDF sheet
+music21
+
+# Audio processing and analysis
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# MIDI manipulation and post-processing
+pretty-midi>=0.2.0
+
+# Optional: Advanced noise reduction
+# noisereduce>=2.0.0
